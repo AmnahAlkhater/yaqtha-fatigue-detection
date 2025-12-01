@@ -4,7 +4,7 @@
 - Displays an on-screen alert when fatigue is detected  
 - Sends a command to Arduino to trigger:
   - Red LED  
-  -Buzzer alert  
+  - Buzzer alert  
 - Normal state is shown through a green LED
   
 ---
